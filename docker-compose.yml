@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : trainwithshubham/my-note-app:latest
+     image : yatharthavijay/my-apps:latest-python-app3.0
      ports :
          - "8000:8000"
